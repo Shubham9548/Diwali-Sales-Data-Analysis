@@ -12,7 +12,7 @@ This repository contains an **Exploratory Data Analysis (EDA) of Diwali Sales**,
 ## 📂 Project Files  
 
 - `Diwali_Sales_EDA.ipynb` – Jupyter Notebook for data preprocessing, analysis, and visualization.  
-- `diwali_sales_data.csv` – Sample dataset used for analysis.  
+- `Diwali Sales Data.csv` – Dataset used for analysis.  
 - `requirements.txt` – List of dependencies required to run the project.  
 
 ## 📊 Dataset Details  
@@ -26,6 +26,8 @@ The dataset includes:
 - `Category` – Product category purchased.  
 - `Sub-Category` – Sub-category of the product.  
 - `Amount` – Total purchase amount.  
+- `State` – State from which the customer purchased.  
+- `Marital_Status` – Marital status of the customer.  
 
 ## 🛠 Technologies Used  
 
@@ -33,3 +35,4 @@ The dataset includes:
 - **Pandas, NumPy** – Data manipulation & preprocessing.  
 - **Matplotlib, Seaborn** – Data visualization.  
 - **Plotly** – Interactive visualizations.  
+
